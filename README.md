@@ -1,5 +1,7 @@
 # Shared GitHub Actions Workflows
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N71WOHZ3)
+
 Reusable GitHub Actions workflows for Docker builds, Python CI, and security scanning.
 
 ## Available Workflows
